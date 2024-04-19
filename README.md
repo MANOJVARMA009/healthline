@@ -42,4 +42,4 @@ If you have any questions, suggestions, or feedback, feel free to reach out to u
 ### healthBot
 <img width="1728" alt="Screenshot 2024-04-19 at 5 21 29 PM" src="https://github.com/MANOJVARMA009/healthline/assets/149860463/ccf5da79-9445-4bd6-95f6-550a20a42730">
 
-#### Website Link :
+#### Website Link : https://blue-dune-072604810.5.azurestaticapps.net
